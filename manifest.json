@@ -1,7 +1,23 @@
 {
   "version": "1.0.0",
   "mode": "all-in-one",
-  "updatedAt": "2026-11-10T14:57:44.696Z",
+  "updatedAt": "2026-11-10T15:06:23.558Z",
   "targetsMindUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/targets.mind",
-  "targets": []
+  "targets": [
+    {
+      "id": "1000172029",
+      "name": "1000172029",
+      "description": "",
+      "targetIndex": 0,
+      "type": "image",
+      "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000172029/base.jpg",
+      "height": 0.683125,
+      "media": {
+        "imageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000172029/image.png",
+        "height": 0.683125
+      },
+      "createdAt": "2026-11-10T15:06:23.557Z",
+      "updatedAt": "2026-11-10T15:06:23.558Z"
+    }
+  ]
 }

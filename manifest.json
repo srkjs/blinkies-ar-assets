@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "mode": "all-in-one",
-  "updatedAt": "2026-11-10T18:57:01.005Z",
+  "updatedAt": "2026-11-10T19:10:00.000Z",
   "targetsMindUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/targets.mind",
   "targets": [
     {
@@ -22,21 +22,47 @@
     {
       "id": "1000168814",
       "name": "1000168814",
-      "description": "",
+      "description": "The Plan Is On Multi-Layer AR",
       "targetIndex": 1,
-      "type": "youtube",
+      "type": "layers",
       "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/base.png",
       "height": 1.3333333333333333,
       "media": {
-        "youtubeUrl": "https://youtu.be/4fJRk-5ENmU?si=lRMUInsbAhk_55qA",
-        "youtubeId": "4fJRk-5ENmU",
-        "width": 1,
-        "height": 0.5625,
-        "aspectRatio": 0.5625,
-        "scale": 1.21,
-        "posX": 0.02,
-        "posY": 0.02,
-        "rotation": 0
+        "width": 1.0,
+        "height": 1.3333,
+        "aspectRatio": 1.3333,
+        "scale": 1.0,
+        "posX": 0.0,
+        "posY": 0.0,
+        "rotation": 0,
+        "layers": [
+          {
+            "name": "1000172032",
+            "order": 1,
+            "url": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/layers/1000172032.png",
+            "zOffset": 0.005,
+            "width": 1.0,
+            "height": 1.3333,
+            "aspectRatio": 1.3333,
+            "scale": 1.0,
+            "posX": 0.0,
+            "posY": 0.0,
+            "rotation": 0
+          },
+          {
+            "name": "1000172033",
+            "order": 2,
+            "url": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/layers/1000172033.png",
+            "zOffset": 0.015,
+            "width": 1.0,
+            "height": 1.3333,
+            "aspectRatio": 1.3333,
+            "scale": 1.0,
+            "posX": 0.0,
+            "posY": 0.0,
+            "rotation": 0
+          }
+        ]
       },
       "createdAt": "2026-11-10T18:57:01.005Z",
       "updatedAt": "2026-11-10T18:57:01.005Z"

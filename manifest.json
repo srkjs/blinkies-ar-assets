@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "mode": "all-in-one",
-  "updatedAt": "2026-11-10T19:12:41.416Z",
+  "updatedAt": "2026-11-10T19:14:39.128Z",
   "targetsMindUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/targets.mind",
   "targets": [
     {
@@ -18,28 +18,6 @@
       },
       "createdAt": "2026-11-10T15:06:23.557Z",
       "updatedAt": "2026-11-10T15:06:23.558Z"
-    },
-    {
-      "id": "1000168814",
-      "name": "1000168814",
-      "description": "The Plan Is On Multi-Layer AR",
-      "targetIndex": 1,
-      "type": "youtube",
-      "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/base.png",
-      "height": 1.3333333333333333,
-      "media": {
-        "youtubeUrl": "https://youtu.be/4fJRk-5ENmU?si=lRMUInsbAhk_55qA",
-        "youtubeId": "4fJRk-5ENmU",
-        "width": 1,
-        "height": 0.5625,
-        "aspectRatio": 0.5625,
-        "scale": 1.09,
-        "posX": 0.03,
-        "posY": 0,
-        "rotation": 0
-      },
-      "createdAt": "2026-11-10T19:12:41.415Z",
-      "updatedAt": "2026-11-10T19:12:41.416Z"
     }
   ]
 }

@@ -1,32 +1,7 @@
 {
   "version": "1.0.0",
   "mode": "all-in-one",
-  "updatedAt": "2026-11-10T14:29:19.402Z",
+  "updatedAt": "2026-11-10T14:57:44.696Z",
   "targetsMindUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/targets.mind",
-  "targets": [
-    {
-      "id": "ajith",
-      "name": "Ajith Signature AR",
-      "targetIndex": 0,
-      "type": "video",
-      "height": 0.56,
-      "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/ajith/base.png",
-      "media": {
-        "videoUrl": "/ar-videos/ajith.mp4",
-        "height": 0.56
-      }
-    },
-    {
-      "id": "vijay",
-      "name": "Vijay Leo AR",
-      "targetIndex": 1,
-      "type": "video",
-      "height": 0.56,
-      "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/vijay/base.png",
-      "media": {
-        "videoUrl": "/ar-videos/vijay.mp4",
-        "height": 0.56
-      }
-    }
-  ]
+  "targets": []
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "mode": "all-in-one",
-  "updatedAt": "2026-11-10T15:32:00.127Z",
+  "updatedAt": "2026-11-10T18:49:22.846Z",
   "targetsMindUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/targets.mind",
   "targets": [
     {
@@ -24,48 +24,22 @@
       "name": "1000168814",
       "description": "",
       "targetIndex": 1,
-      "type": "layers",
+      "type": "youtube",
       "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/base.png",
       "height": 1.3333333333333333,
       "media": {
-        "layers": [
-          {
-            "name": "1000172032",
-            "order": 1,
-            "url": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/layers/1000172032.png",
-            "zOffset": 0.005,
-            "width": 1,
-            "height": 1.3311867525298988,
-            "aspectRatio": 1.3311867525298988,
-            "scale": 1,
-            "posX": 0,
-            "posY": 0,
-            "rotation": 0
-          },
-          {
-            "name": "1000172033",
-            "order": 2,
-            "url": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168814/layers/1000172033.png",
-            "zOffset": 0.01,
-            "width": 1,
-            "height": 1.1764705882352942,
-            "aspectRatio": 1.1764705882352942,
-            "scale": 1,
-            "posX": 0,
-            "posY": 0,
-            "rotation": 0
-          }
-        ],
+        "youtubeUrl": "https://youtu.be/4fJRk-5ENmU?si=lRMUInsbAhk_55qA",
+        "youtubeId": "4fJRk-5ENmU",
         "width": 1,
-        "height": 1.3311867525298988,
-        "aspectRatio": 1.3311867525298988,
-        "scale": 1,
-        "posX": 0,
-        "posY": 0,
+        "height": 0.5625,
+        "aspectRatio": 0.5625,
+        "scale": 1.12,
+        "posX": 0.02,
+        "posY": 0.02,
         "rotation": 0
       },
-      "createdAt": "2026-11-10T15:32:00.123Z",
-      "updatedAt": "2026-11-10T15:32:00.126Z"
+      "createdAt": "2026-11-10T18:49:22.845Z",
+      "updatedAt": "2026-11-10T18:49:22.846Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "mode": "all-in-one",
-  "updatedAt": "2026-11-11T07:54:22.619Z",
+  "updatedAt": "2026-11-11T07:58:45.686Z",
   "targetsMindUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/targets.mind",
   "targets": [
     {
@@ -72,6 +72,27 @@
       },
       "createdAt": "2026-11-11T07:54:22.619Z",
       "updatedAt": "2026-11-11T07:54:22.619Z"
+    },
+    {
+      "id": "1000168320",
+      "name": "1000168320",
+      "description": "",
+      "targetIndex": 2,
+      "type": "video",
+      "baseImageUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168320/base.png",
+      "height": 1.559090909090909,
+      "media": {
+        "videoUrl": "https://raw.githubusercontent.com/srkjs/blinkies-ar-assets/main/experiences/1000168320/video.mp4",
+        "width": 1,
+        "height": 1.3333333333333333,
+        "aspectRatio": 1.3333333333333333,
+        "scale": 0.97,
+        "posX": 0,
+        "posY": 0,
+        "rotation": 0
+      },
+      "createdAt": "2026-11-11T07:58:45.678Z",
+      "updatedAt": "2026-11-11T07:58:45.686Z"
     }
   ]
 }
